@@ -58,7 +58,7 @@ const menu = [
       { name: 'Voting Portal', link: 'https://app.uniswap.org/#/vote' },
       { name: 'Documentation', link: '/docs/v2/governance/overview' }
     ]
-  },*//
+  },*/
   {
     name: 'La Nostra Community',
     sublinks: [
