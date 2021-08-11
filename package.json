@@ -1,9 +1,9 @@
 {
   "name": "@uniswap/org",
   "private": true,
-  "description": "Uniswap homepage and knowledgebase",
+  "description": "Limoney homepage and knowledgebase",
   "version": "0.1.0",
-  "author": "Callil Capuozzo <callil.capuozzo@gmail.com>",
+  "author": "Webbyou <webbyou@gmail.com>",
   "engines": {
     "node": ">=12.0.0"
   },
