@@ -259,7 +259,7 @@ const Header = props => {
           }}
         >
           <StyledUni />
-          <HeaderText>Uniswap</HeaderText>
+          <HeaderText>Fazan</HeaderText>
         </StyledHomeLink>
       </StyledNavTitleWrapper>
       <MenuToggle ref={button} open={isMenuOpen} onClick={() => updateIsMenuOpen(!isMenuOpen)}>
@@ -279,13 +279,13 @@ const Header = props => {
         {props.path !== undefined && (
           <StyledTradeLink
             style={{
-              background: `linear-gradient(128.17deg, #BD00FF -14.78%, #FF1F8A 110.05%)`,
+              background: `linear-gradient(128.17deg, #00EEFF -14.78%, #1F48FF 110.05%)`,
               color: 'white'
             }}
             target="_blank"
             href="https://app.uniswap.org/"
           >
-            Launch App
+            Accedi App
           </StyledTradeLink>
         )}
       </StyledNav>
