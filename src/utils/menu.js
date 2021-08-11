@@ -1,7 +1,7 @@
 const menu = [
   {
-    name: 'Products',
-    sublinks: [
+   /*name: 'Products',
+   sublinks: [
       {
         name: 'App',
         link: 'https://app.uniswap.org/#/',
@@ -33,16 +33,16 @@ const menu = [
         description: 'Optimistic rollup demo'
       }
     ]
-  },
+  },*//
   {
-    name: 'Developers',
+ /*   name: 'Developers',
     sublinks: [
-      {
+     {
         name: 'V3 Documentation',
         link: 'https://docs.uniswap.org/'
       },
       { name: 'V3 Whitepaper', link: '/whitepaper-v3.pdf' },
-      { name: 'GitHub', link: 'https://github.com/Uniswap' },
+    //  { name: 'GitHub', link: 'https://github.com/Uniswap' },
       // { name: 'Audit', link: '/audit.html' },
       { name: 'Bug Bounty', link: '/bug-bounty' }
     ]
@@ -66,9 +66,9 @@ const menu = [
       { name: 'Twitter', link: 'https://twitter.com/Uniswap' },
       { name: 'Reddit', link: 'https://www.reddit.com/r/Uniswap' }
     ]
-  },
+  },*//
   {
-    name: 'About',
+    name: 'Chi Siamo',
     sublinks: [
       {
         name: 'Blog',
@@ -83,7 +83,7 @@ const menu = [
         link: '/faq'
       },
       {
-        name: 'Jobs',
+        name: 'Lavora con Noi',
         link: '/about#jobs'
       },
       {
