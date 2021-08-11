@@ -259,7 +259,7 @@ const Header = props => {
           }}
         >
           <StyledUni />
-          <HeaderText>Fazan</HeaderText>
+          <HeaderText>Limoney</HeaderText>
         </StyledHomeLink>
       </StyledNavTitleWrapper>
       <MenuToggle ref={button} open={isMenuOpen} onClick={() => updateIsMenuOpen(!isMenuOpen)}>
@@ -285,7 +285,7 @@ const Header = props => {
             target="_blank"
             href="https://app.uniswap.org/"
           >
-            Accedi App
+            Vai Limoney App
           </StyledTradeLink>
         )}
       </StyledNav>
