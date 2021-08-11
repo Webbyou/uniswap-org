@@ -58,15 +58,15 @@ const menu = [
       { name: 'Voting Portal', link: 'https://app.uniswap.org/#/vote' },
       { name: 'Documentation', link: '/docs/v2/governance/overview' }
     ]
-  },
-  {
-    name: 'Community',
-    sublinks: [
-      { name: 'Discord', link: 'https://discord.gg/FCfyBSbCU5' },
-      { name: 'Twitter', link: 'https://twitter.com/Uniswap' },
-      { name: 'Reddit', link: 'https://www.reddit.com/r/Uniswap' }
-    ]
   },*//
+  {
+    name: 'La Nostra Community',
+    sublinks: [
+      { name: 'Discord', link: 'https://discord.gg/limoney' },
+      { name: 'Twitter', link: 'https://twitter.com/limoney' },
+      { name: 'Reddit', link: 'https://www.reddit.com/r/Limoney' }
+    ]
+  },
   {
     name: 'Chi Siamo',
     sublinks: [
