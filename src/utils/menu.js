@@ -33,17 +33,17 @@ const menu = [
         description: 'Optimistic rollup demo'
       }
     ]
-  },*//
+  },
   {
- /*   name: 'Developers',
+   name: 'Developers',
     sublinks: [
      {
         name: 'V3 Documentation',
         link: 'https://docs.uniswap.org/'
       },
       { name: 'V3 Whitepaper', link: '/whitepaper-v3.pdf' },
-    //  { name: 'GitHub', link: 'https://github.com/Uniswap' },
-      // { name: 'Audit', link: '/audit.html' },
+     { name: 'GitHub', link: 'https://github.com/Uniswap' },
+     { name: 'Audit', link: '/audit.html' },
       { name: 'Bug Bounty', link: '/bug-bounty' }
     ]
   },
