@@ -322,19 +322,19 @@ const IndexPage = props => {
       <StyledBody>
         <StyledTitle>
           <StyledBodyTitle>
-            Decentralized Trading Protocol
+            Benvenuti nella Finanza Decentralizzata
             <MiniNewInfo to="/blog/launch-uniswap-v3/">
               <NewPill
                 style={{
                   color: 'white'
                 }}
               >
-                Learn about Uniswap V3 ↗
+                Scopri i nostri Token ↗
               </NewPill>
             </MiniNewInfo>
           </StyledBodyTitle>
           <StyledBodySubTitle style={{ marginBottom: '3rem' }}>
-            Guaranteed liquidity for millions of users and hundreds of Ethereum applications.
+            Milioni di utenti e centinaia di applicazioni.
           </StyledBodySubTitle>
 
           <StyledItemRow>
