@@ -33,11 +33,11 @@ const StyledFooterLink = styled(Link)`
 const Footer = () => {
   return (
     <StyledFooter>
-      <p>© {new Date().getFullYear()} Uniswap</p>
+      <p>© {new Date().getFullYear()} Fazan</p>
       <StyledFooterLinkSection>
-        <StyledFooterLink to="/about">About</StyledFooterLink>
+        <StyledFooterLink to="/about">Chi Siamo</StyledFooterLink>
         <StyledFooterLink to="/disclaimer" style={{ marginRight: '12px' }}>
-          Disclaimer
+          GDPR
         </StyledFooterLink>
         <StyledFooterLink to="/trademarks">Trademarks</StyledFooterLink>
         <StyledFooterLink to="/about#brand">Brand</StyledFooterLink>
